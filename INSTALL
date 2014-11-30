@@ -1,0 +1,21 @@
+Installation Instructions
+=========================
+
+ sudo apt-get install build-essentials m4 
+ gmp, pbc, mpir, mpfr, flint
+
+
+
+
+  1. Type `make' to compile the package.
+
+  2. Optionally, type `make check' to run any self-tests that come with
+     the package.
+
+  3. Type `make install' to install the programs and any data files and
+     documentation.
+
+  4. You can remove the program binaries and object files from the
+     source code directory by typing `make clean'.
+
+
