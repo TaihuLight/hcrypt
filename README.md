@@ -1,7 +1,6 @@
-hcrypt - Homomorphic Cryptography Toolkit
-=========================================
 
 
+### About
 
 The libhcrypt aims to provide multiple homomorhpic encryption schemes with a
 generailized interface. It hopes to implement encryption schemes including:
